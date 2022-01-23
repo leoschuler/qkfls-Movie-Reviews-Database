@@ -3,3 +3,6 @@ applications:
  - name: movies-reviews-database-9b4
    random-route: false
    memory: 256M
+services:
+ - cloudappdev-cloudant
+ - cloudapp-nlu
