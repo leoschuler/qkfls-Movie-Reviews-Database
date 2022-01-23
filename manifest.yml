@@ -5,4 +5,4 @@ applications:
    memory: 256M
 services:
  - cloudappdev-cloudant
- - cloudapp-nlu
+ - cloudappdevs-nlu
